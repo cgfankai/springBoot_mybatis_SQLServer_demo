@@ -1,0 +1,35 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.yml
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/upload/
+/logs/
+/tmp/
+
+
+/src/main/resources/application-product.yml
+/src/main/java/com/tsy/xxzx/soft/archive/branch/management/MybatisGenerate.java
+/bin/
+src/main/webapp/
